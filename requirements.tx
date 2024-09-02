@@ -1,2 +1,2 @@
 langchain-huggingface
-chromadb
+chromadb==0.5.3
